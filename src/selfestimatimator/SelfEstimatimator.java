@@ -40,6 +40,7 @@ public class SelfEstimatimator {
         config.setTermFileName("C://java/terms.txt");
         config.setTermTagsFileName("C://java/termTags.txt");
         config.setUserSkillsFileName("C://java/termSkills.txt");
+        //add new comment
 
        
 //        config.setStorageType(StorageType.DataBase);
